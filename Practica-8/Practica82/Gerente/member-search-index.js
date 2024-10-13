@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mx.unam.fi.poo.g1.p8","c":"Gerente","l":"calcularSalario(int)"},{"p":"mx.unam.fi.poo.g1.p8","c":"Gerente","l":"Gerente(String, String)","u":"%3Cinit%3E(java.lang.String,java.lang.String)"}];updateSearchResults();
